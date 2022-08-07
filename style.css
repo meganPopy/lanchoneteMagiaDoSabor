@@ -1,0 +1,20 @@
+body {
+	background: #CCCCCC
+}
+
+#salgados.jpg {
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+	}
+
+p {
+	text-align: center;
+		font-size: 20px
+}
+
+strong {
+	color: #FF0000;
+}
