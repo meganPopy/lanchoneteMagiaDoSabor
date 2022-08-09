@@ -2,8 +2,8 @@ body {
 	background: #CCCCCC
 }
 
-#salgados.jpg {
-	width: 100%;
+#salgados {
+	width: 100%
 }
 
 h1 {
@@ -17,4 +17,15 @@ p {
 
 strong {
 	color: #FF0000;
+}
+
+.itens{
+	font-style: italic;
+	font-size: 20px;
+}
+#salgado2{
+	width: 50%
+}
+#cerveja{
+	width: 50%
 }
