@@ -27,8 +27,7 @@ strong {
 .itens{
 	font-style: italic;
 	font-size: 20px;
-	display: inline-block;
-}
+	}
 
 .texto-principal{
 	background-color: floralwhite;
