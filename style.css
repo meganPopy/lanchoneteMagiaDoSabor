@@ -1,3 +1,7 @@
+header{color: rgb(204, 225, 243);
+font-size: medium;
+}
+#logo {width: 20%;}
 
 #salgados {
 	width: 100%;
@@ -38,7 +42,7 @@ strong {
 	margin: 10px;
 	display: inline-block;
 		}
-		
+
 #cerveja{
 	width: 40%;
 	padding: 10px;
