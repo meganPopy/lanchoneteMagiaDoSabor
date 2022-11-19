@@ -1,6 +1,3 @@
-body {
-	background: #CCCCCC
-}
 
 #salgados {
 	width: 100%;
@@ -28,12 +25,20 @@ strong {
 	font-size: 20px;
 	display: inline-block;
 }
+
+.texto-principal{
+	background-color: floralwhite;
+}
+.texto-2{
+	background-color: azure;
+}
 #salgado2{
-	width: 40%;
+	width: 50%;
 	padding: 10px;
 	margin: 10px;
 	display: inline-block;
 		}
+		
 #cerveja{
 	width: 40%;
 	padding: 10px;
