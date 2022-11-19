@@ -1,5 +1,6 @@
-header{color: rgb(204, 225, 243);
-font-size: larger;
+header{background-color: aliceblue;
+}
+ul {font-size: x-large;
 }
 #logo {width: 20%;}
 title{
@@ -46,7 +47,7 @@ strong {
 		}
 
 #cerveja{
-	width: 45%;
+	width: 50%;
 	padding: 10px;
 	margin: 10px;
 	display: inline-block;
