@@ -26,6 +26,7 @@ strong {
 .itens{
 	font-style: italic;
 	font-size: 20px;
+	display: inline-block;
 }
 #salgado2{
 	width: 50%;
@@ -37,19 +38,6 @@ strong {
 	width: 50%;
 	padding: 10px;
 	margin: 10px;
-	display: block;
-	}
-
-ul{
-		display: block;
-	}
-
-.imagemcerveja{
-    width: 40%;
-		display: inline-block;
-}
-
-.imagemsalgado2{
-	width: 40%;
 	display: inline-block;
-}
+	}
+
