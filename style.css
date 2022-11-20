@@ -3,7 +3,8 @@ header{background-color: aliceblue;
 .home {font-size: large;
 	color: deeppink;
 }
-#logo {width: 20%;}
+#logo {width: 5%;
+display: inline-block;}
 
 title{
 	font-size: larger;
