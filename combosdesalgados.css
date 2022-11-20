@@ -1,3 +1,7 @@
-#peixe{width: 45%;}
+#peixe{width: 40%;
+display: inline-block;
+}
 
-#coca{width: 45%;}
+#coca{width: 40%;
+display: inline-block;
+}
