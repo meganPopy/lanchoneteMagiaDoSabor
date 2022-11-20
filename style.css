@@ -4,7 +4,9 @@ header{background-color: aliceblue;
 #logo {width: 15%;
 display: inline-block;}
 
-nav li{display: inline;}
+nav li{display: inline;
+	margin: 0 0 0 15px;
+}
 
 title{
 	font-size: larger;
