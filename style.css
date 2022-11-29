@@ -60,3 +60,8 @@ strong {
 	display: inline-block;
 	}
 
+	.rodape { color:aliceblue;
+		text-align: center;
+		background-color: black;
+		padding: 20px;
+	}
