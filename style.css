@@ -60,6 +60,17 @@ strong {
 	display: inline-block;
 	}
 
+	nav{ position: absolute;
+		top: 50px;
+		right: 150px;}
+		
+		nav li{display: inline;
+		margin-right: 15px;}
+		
+		nav a{text-transform: uppercase;
+		text-decoration: none;
+		font-weight: bold;}
+		
 	.rodape { color:aliceblue;
 		text-align: center;
 		background-color: black;
